@@ -1,3 +1,1 @@
-"# DataProject" 
-"# DataProject" 
-# DataProject
+DataProject for Data Structures class.
